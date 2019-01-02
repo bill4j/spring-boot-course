@@ -35,15 +35,16 @@ public class UserController {
 
     @GetMapping("/getUser/{name}")
     public User findByName(@PathVariable String name) {
-        logger.info("name = {}",name);
+        // logger.info("name = {}",name);
+
         User resultuser = new User();
         if ("bill".equals(name)) {
             resultuser.setId(3453445L);
             resultuser.setAge(18);
             resultuser.setName(name);
             resultuser.setPhoneNumber("18232343840");
-            logger.info(resultuser.toString());
-            return resultuser;
+            // logger.info(resultuser.toString());
+            throw new RuntimeException();
         }
         return resultuser;
     }
