@@ -44,7 +44,6 @@ public class UserController {
             resultuser.setName(name);
             resultuser.setPhoneNumber("18232343840");
             // logger.info(resultuser.toString());
-            throw new RuntimeException();
         }
         return resultuser;
     }

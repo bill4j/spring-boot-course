@@ -6,6 +6,7 @@ import org.aspectj.lang.annotation.*;
 import org.aspectj.lang.reflect.MethodSignature;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.slf4j.MDC;
 import org.springframework.stereotype.Component;
 import org.springframework.web.context.request.RequestContextHolder;
 import org.springframework.web.context.request.ServletRequestAttributes;
@@ -41,6 +42,7 @@ public class SampleControllerAspect {
     public void doBefore(JoinPoint joinPoint) {
         //target
         LOGGER.debug("进入前置通知：dorBefore方法");
+
         Object[] objects = joinPoint.getArgs();
 
         Signature signature = joinPoint.getSignature();
@@ -59,10 +61,10 @@ public class SampleControllerAspect {
         // 接收到请求，记录请求内容
         ServletRequestAttributes attributes = (ServletRequestAttributes) RequestContextHolder.getRequestAttributes();
         HttpServletRequest req = attributes.getRequest();
-        // 记录下请求内容
-        LOGGER.debug("请求URL : " + req.getRequestURL().toString());
-        LOGGER.debug("HTTP_METHOD : " + req.getMethod());
-        LOGGER.debug("IP : " + req.getRemoteHost());
+        // 解析请求报文，使用MDC,打印日志，也可在前置通知中获取
+        MDC.put("HTTP_METHOD", req.getMethod());
+        MDC.put("IP", req.getRemoteHost());
+        MDC.put("URL", req.getRequestURL().toString());
         LOGGER.debug("CLASS_METHOD : " + joinPoint.getSignature().getDeclaringTypeName() + "." + joinPoint.getSignature().getName());
 
 
@@ -81,6 +83,7 @@ public class SampleControllerAspect {
     @After("weblog()")
         public void doAfter(JoinPoint joinPoint) {
         LOGGER.debug("whatever happened i very execute finally !");
+        MDC.clear();
 
     }
 
