@@ -42,6 +42,15 @@ public class SampleControllerAspect {
     public void doBefore(JoinPoint joinPoint) {
         //target
         LOGGER.debug("进入前置通知：dorBefore方法");
+        //记录请求的内容：
+        // 请求的IP，方式，url,
+        // 接收到请求，记录请求内容
+        ServletRequestAttributes attributes = (ServletRequestAttributes) RequestContextHolder.getRequestAttributes();
+        HttpServletRequest req = attributes.getRequest();
+        // 解析请求报文，使用MDC,打印日志，也可在前置通知中获取
+        MDC.put("SESSION_ID", req.getSession().getId());
+        MDC.put("IP", req.getRemoteAddr());
+        MDC.put("URL", req.getRequestURL().toString());
 
         Object[] objects = joinPoint.getArgs();
 
@@ -56,15 +65,7 @@ public class SampleControllerAspect {
         LOGGER.debug("方法参数的名字：{}", Arrays.toString(parameterNames));
         LOGGER.debug("方法的参数的值：{}", Arrays.toString(objects));
 
-        //记录请求的内容：
-        // 请求的IP，方式，url,
-        // 接收到请求，记录请求内容
-        ServletRequestAttributes attributes = (ServletRequestAttributes) RequestContextHolder.getRequestAttributes();
-        HttpServletRequest req = attributes.getRequest();
-        // 解析请求报文，使用MDC,打印日志，也可在前置通知中获取
-        MDC.put("HTTP_METHOD", req.getMethod());
-        MDC.put("IP", req.getRemoteHost());
-        MDC.put("URL", req.getRequestURL().toString());
+
         LOGGER.debug("CLASS_METHOD : " + joinPoint.getSignature().getDeclaringTypeName() + "." + joinPoint.getSignature().getName());
 
 
