@@ -18,9 +18,10 @@ import org.springframework.web.bind.annotation.*;
 public class UserController {
 
     private static final Logger logger = LoggerFactory.getLogger(UserController.class);
+
     @GetMapping("/getUser")
     public User findById(@RequestParam long id) {
-    logger.debug("id = {}",id);
+        logger.debug("id = {}", id);
         User resultuser = new User();
         if (id == 6688) {
             resultuser.setAge(18);

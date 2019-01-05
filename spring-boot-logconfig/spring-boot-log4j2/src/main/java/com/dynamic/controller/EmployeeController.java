@@ -31,7 +31,7 @@ public class EmployeeController {
 
     @GetMapping("/get")
     public User findById(@RequestParam long id) {
-        logger.debug("id = {}",id);
+        logger.debug("id = {}", id);
         User resultuser = new User();
         if (id == 6688) {
             resultuser.setAge(18);

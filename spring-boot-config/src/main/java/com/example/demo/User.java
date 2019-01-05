@@ -6,7 +6,7 @@ package com.example.demo;
  * version:
  */
 public class User {
-    public long id ;
+    public long id;
     public String name;
     public String sex;
     public int age;
@@ -15,10 +15,10 @@ public class User {
     @Override
     public String toString() {
         StringBuilder userInfo = new StringBuilder().append("[ User detail info :")
-                .append("name,"+this.name)
-                .append("sex,"+this.sex)
-                .append("age"+this.age)
-                .append("phoneNumber"+this.phoneNumber);
+                .append("name," + this.name)
+                .append("sex," + this.sex)
+                .append("age" + this.age)
+                .append("phoneNumber" + this.phoneNumber);
         return userInfo.toString();
     }
 
@@ -59,7 +59,7 @@ public class User {
     }
 
     public void setPhoneNumber(String phoneNumber) {
-        String securedPhoneNumber = phoneNumber.replace(phoneNumber.substring(3,7),"****");
+        String securedPhoneNumber = phoneNumber.replace(phoneNumber.substring(3, 7), "****");
         this.phoneNumber = securedPhoneNumber;
     }
 }

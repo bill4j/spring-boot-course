@@ -27,6 +27,7 @@ import java.util.Arrays;
 public class SampleControllerAspect {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(SampleControllerAspect.class);
+
     /**
      * 给所有webcontroller层的方法加入自动的日志切面，打印入参和返回值
      */
@@ -72,17 +73,19 @@ public class SampleControllerAspect {
         //wave
 
     }
-    @AfterThrowing(value = "weblog()",throwing = "e")
-    public void doWhenThrowing(JoinPoint joinPoint,Throwable e) {
-        LOGGER.error("方法执行时，发生了异常",e);
+
+    @AfterThrowing(value = "weblog()", throwing = "e")
+    public void doWhenThrowing(JoinPoint joinPoint, Throwable e) {
+        LOGGER.error("方法执行时，发生了异常", e);
     }
 
     @AfterReturning(returning = "returnedValues", pointcut = "weblog()")
     public void doAfterReturning(Object returnedValues) {
-        LOGGER.debug("方法的返回值为：{}",returnedValues);
+        LOGGER.debug("方法的返回值为：{}", returnedValues);
     }
+
     @After("weblog()")
-        public void doAfter(JoinPoint joinPoint) {
+    public void doAfter(JoinPoint joinPoint) {
         LOGGER.debug("whatever happened i very execute finally !");
         MDC.clear();
 
@@ -102,7 +105,6 @@ public class SampleControllerAspect {
     //
     // }
     //use the aspect（or Config the aspect）
-
 
 
 }

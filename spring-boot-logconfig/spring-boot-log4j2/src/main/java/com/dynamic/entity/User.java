@@ -44,7 +44,7 @@ public class User {
 
     public long id;
     public String name;
-    public  String phoneNumber;
+    public String phoneNumber;
     public int age;
 
     @Override

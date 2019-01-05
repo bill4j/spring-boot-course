@@ -15,9 +15,9 @@ import java.util.Locale;
 public class DemoApplication {
 
     public static void main(String[] args) {
-        ConfigurableApplicationContext applicationContext= SpringApplication.run(DemoApplication.class, args);
+        ConfigurableApplicationContext applicationContext = SpringApplication.run(DemoApplication.class, args);
         Myconf myconf = (Myconf) applicationContext.getBean("myconf");
-        String configDetails =  myconf.showMyconf();
+        String configDetails = myconf.showMyconf();
         System.out.print(configDetails);
     }
 
@@ -29,7 +29,7 @@ public class DemoApplication {
     @GetMapping("/get/{id}")
     public User getUser(@PathVariable long id) {
         User user = new User();
-        if (id==6688){
+        if (id == 6688) {
             user.setName("bill");
             user.setAge(18);
             user.setSex("man");
@@ -46,7 +46,7 @@ public class DemoApplication {
 
     @PostMapping("entity")
     public String withEntity(HttpEntity<String> entity) {
-        return "posted request body '"+entity.getBody()+"'; headers = "+entity.getHeaders();
+        return "posted request body '" + entity.getBody() + "'; headers = " + entity.getHeaders();
     }
 
     @GetMapping("group")

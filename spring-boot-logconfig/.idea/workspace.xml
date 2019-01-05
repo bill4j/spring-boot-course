@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/spring-boot-logback/src/main/java/com/dynamic/springbootlogback/SampleControllerAspect.java" line="55" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8dc3071-b037-4dbb-b161-616e3f07fe55" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/spring-boot-demo-4-1/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-demo-4-2/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-demo-5-2/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-demo-5-1/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-logback/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-log4j2/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-logback/src/main/java/com/dynamic/springbootlogback/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="16" column="24" selection-start-line="16" selection-end-line="16" selection-end-column="24" />
+              <folding>
+                <element signature="method#findByName#0;class#UserController#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SampleControllerAspect.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-logback/src/main/java/com/dynamic/springbootlogback/SampleControllerAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="docComment;class#SampleControllerAspect#0" />
+                <element signature="e#717#724#0" />
+                <element signature="docComment;method#weblog#0;class#SampleControllerAspect#0" />
+                <element signature="method#doAfter#0;class#SampleControllerAspect#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logback-dynamic.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-logback/src/main/resources/logback-dynamic.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <folding>
+                <element signature="n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#appender#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#encoder#0;n#appender#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#rollingPolicy#0;n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#timeBasedFileNamingAndTriggeringPolicy#0;n#rollingPolicy#0;n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#encoder#0;n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#filter#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#rollingPolicy#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#timeBasedFileNamingAndTriggeringPolicy#0;n#rollingPolicy#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#encoder#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#filter#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#rollingPolicy#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#timeBasedFileNamingAndTriggeringPolicy#0;n#rollingPolicy#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#encoder#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#logger#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#root#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#springProfile#1;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#springProfile#2;n#configuration#0;n#!!top" expanded="true" />
+                <element signature="n#root#0;n#springProfile#2;n#configuration#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="After.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program/apache-maven-3.3.9/repository/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar!/org/aspectj/lang/annotation/After.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AfterThrowing.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program/apache-maven-3.3.9/repository/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar!/org/aspectj/lang/annotation/AfterThrowing.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AfterReturning.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program/apache-maven-3.3.9/repository/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar!/org/aspectj/lang/annotation/AfterReturning.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JoinPoint.class" pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Program/apache-maven-3.3.9/repository/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar!/org/aspectj/lang/JoinPoint.class">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-boot-logback/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application-dev.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-logback/src/main/resources/application-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PRO_FILE_PATH</find>
+      <find>System.out.println</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>LOGGER.debug</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring-boot-demo-5-2/src/main/resources/log4j2-prod.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-5-1/src/main/java/com/roncoo/education/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-5-1/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-5-1/src/main/resources/logback-roncoo.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-5-1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-logback/src/main/java/com/dynamic/springbootlogback/entity/User.java" />
+        <option value="$PROJECT_DIR$/spring-boot-logback/src/main/resources/logback-roncoo.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-log4j2/src/main/java/com/dynamic/entity/User.java" />
+        <option value="$PROJECT_DIR$/spring-boot-log4j2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-log4j2/src/main/java/com/dynamic/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-log4j2/src/main/java/com/dynamic/controller/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-log4j2/src/main/java/com/dynamic/springbootlog4j2/SpringBootLog4j2Application.java" />
+        <option value="$PROJECT_DIR$/spring-boot-log4j2/src/main/resources/log4j2-dev.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-logback/src/main/java/com/dynamic/springbootlogback/SampleLogAspect.java" />
+        <option value="$PROJECT_DIR$/spring-boot-logback/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-logback/src/main/java/com/dynamic/springbootlogback/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-logback/src/main/resources/logback-dynamic.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-logback/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-logback/src/main/java/com/dynamic/springbootlogback/SampleControllerAspect.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program\apache-maven-3.3.9\repository" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-logback" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-logback" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="1" />
+    <option name="width" value="1934" />
+    <option name="height" value="1037" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-boot-logconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-logconfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-logconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="spring-boot-logconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.2" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="spring-boot-logconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.9.2.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-logconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.9.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-logconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.9.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-logconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.9.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-logconfig" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.aspectj:aspectjweaver:1.9.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.9.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="15" />
+    <property name="RequestMappingsPanelWidth1" value="15" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/project/yonyou/iweb_apportal" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dynamic.springbootlog4j2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\practice\springboot\spring-boot-course\spring-boot-logconfig\spring-boot-log4j2\src\main\resources" />
+      <recent name="E:\practice\springboot\spring-boot-course\spring-boot-logconfig\spring-boot-log4j2\src\main\java\com\dynamic" />
+      <recent name="E:\practice\springboot\spring-boot-course\spring-boot-logconfig\spring-boot-logback\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.13089702" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootLogbackApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SpringBootLog4j2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-log4j2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dynamic.springbootlog4j2.SpringBootLog4j2Application" />
+    </configuration>
+    <configuration name="SpringBootLogbackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-logback" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dynamic.springbootlogback.SpringBootLogbackApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringBootLogbackApplication" />
+      <item itemvalue="Spring Boot.SpringBootLog4j2Application" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8dc3071-b037-4dbb-b161-616e3f07fe55" name="Default" comment="" />
+      <created>1546169412954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546169412954</updated>
+      <workItem from="1546169416203" duration="802000" />
+      <workItem from="1546174085939" duration="1308000" />
+      <workItem from="1546175420495" duration="5022000" />
+      <workItem from="1546180667592" duration="2288000" />
+      <workItem from="1546218080186" duration="2922000" />
+      <workItem from="1546243090167" duration="1182000" />
+      <workItem from="1546252064450" duration="11513000" />
+      <workItem from="1546416837047" duration="713000" />
+      <workItem from="1546476887874" duration="2490000" />
+      <workItem from="1546492928734" duration="4060000" />
+      <workItem from="1546568607840" duration="1560000" />
+      <workItem from="1546656305796" duration="229000" />
+      <workItem from="1546656576231" duration="1420000" />
+      <workItem from="1546658220811" duration="248000" />
+      <workItem from="1546658950755" duration="731000" />
+      <workItem from="1546667810208" duration="788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37276000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="9" visible="true" weight="0.111979164" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.14344828" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33793104" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Code comment" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2220052" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Learn" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32965517" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Code comment" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33793104" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32965517" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.11203704" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2421875" />
+      <window_info id="Learn" order="6" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.33103448" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-logback/src/main/java/com/dynamic/springbootlogback/SampleControllerAspect.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-1/src/main/java/com/roncoo/education/controller/IndexController.java" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-1/src/main/resources/application-test.properties" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-1/src/main/resources/application-prod.properties" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-1/src/main/resources/logback-roncoo.xml" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-2/src/main/resources/log4j2-prod.xml" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-2/src/main/resources/log4j2-test.xml" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-2/src/main/resources/application-prod.properties" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-2/src/main/resources/application-test.properties" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-2/src/main/resources/application-dev.properties" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-2/src/main/resources/log4j2-dev.xml" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-logback/spring-boot-logback.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-logback/src/main/java/com/dynamic/springbootlogback/SpringBootLogbackApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-logback/src/main/java/com/dynamic/springbootlogback/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-1/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-1/src/main/resources/application-dev.properties" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-logback/src/main/resources/application-test.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-logback/src/main/resources/application-prod.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-1/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-2/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-log4j2/src/main/resources/log4j2-test.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-2/spring-boot-demo-5-2.iml" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-2/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-log4j2/src/main/java/com/dynamic/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-log4j2/src/main/resources/application-prod.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-log4j2/src/main/resources/application-test.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-log4j2/src/main/java/com/dynamic/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-5-2/src/main/java/com/roncoo/education/controller/IndexController.java" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-log4j2/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-log4j2/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program/apache-maven-3.3.9/repository/org/springframework/spring-context/5.1.3.RELEASE/spring-context-5.1.3.RELEASE.jar!/org/springframework/context/annotation/ComponentScans.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program/apache-maven-3.3.9/repository/org/springframework/spring-context/5.1.3.RELEASE/spring-context-5.1.3.RELEASE.jar!/org/springframework/context/annotation/ComponentScan.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-320">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-log4j2/src/main/java/com/dynamic/springbootlog4j2/SpringBootLog4j2Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-log4j2/src/main/resources/log4j2-dev.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-log4j2/src/main/java/com/dynamic/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-log4j2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-logback/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program/apache-maven-3.3.9/repository/org/springframework/spring-aop/5.1.3.RELEASE/spring-aop-5.1.3.RELEASE.jar!/org/springframework/aop/aspectj/AspectJMethodBeforeAdvice.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program/apache-maven-3.3.9/repository/org/springframework/spring-aop/5.1.3.RELEASE/spring-aop-5.1.3.RELEASE.jar!/org/springframework/aop/aspectj/AbstractAspectJAdvice.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="410" selection-start-line="410" selection-end-line="410" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LOG_HOME_IS_UNDEFINED/logback-error.log" />
+    <entry file="file://$PROJECT_DIR$/LOG_HOME_IS_UNDEFINED/LoggingBack-2018-12-31.log" />
+    <entry file="file://$PROJECT_DIR$/LOG_HOME_IS_UNDEFINED/LoggingBack-error.log" />
+    <entry file="file://$PROJECT_DIR$/LOG_HOME_IS_UNDEFINED/LoggingBack-info.log" />
+    <entry file="jar://D:/Program/apache-maven-3.3.9/repository/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar!/org/aspectj/lang/annotation/AfterThrowing.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program/apache-maven-3.3.9/repository/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar!/org/aspectj/lang/annotation/After.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-logback/src/main/resources/logback-dynamic.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <element signature="n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#encoder#0;n#appender#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#rollingPolicy#0;n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#timeBasedFileNamingAndTriggeringPolicy#0;n#rollingPolicy#0;n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#encoder#0;n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#filter#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#rollingPolicy#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#timeBasedFileNamingAndTriggeringPolicy#0;n#rollingPolicy#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#encoder#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#filter#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#rollingPolicy#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#timeBasedFileNamingAndTriggeringPolicy#0;n#rollingPolicy#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#encoder#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#logger#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#root#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#springProfile#1;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#springProfile#2;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#root#0;n#springProfile#2;n#configuration#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-logback/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program/apache-maven-3.3.9/repository/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar!/org/aspectj/lang/JoinPoint.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-logback/src/main/java/com/dynamic/springbootlogback/SampleControllerAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="docComment;class#SampleControllerAspect#0" />
+            <element signature="e#717#724#0" />
+            <element signature="docComment;method#weblog#0;class#SampleControllerAspect#0" />
+            <element signature="method#doAfter#0;class#SampleControllerAspect#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program/apache-maven-3.3.9/repository/org/aspectj/aspectjweaver/1.9.2/aspectjweaver-1.9.2.jar!/org/aspectj/lang/annotation/AfterReturning.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-logback/src/main/java/com/dynamic/springbootlogback/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="16" column="24" selection-start-line="16" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="method#findByName#0;class#UserController#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-logback/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-boot-demo-5-1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

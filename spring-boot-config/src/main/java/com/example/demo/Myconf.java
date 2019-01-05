@@ -24,23 +24,23 @@ public class Myconf {
 
     public String username;
     public String password;
-    public String url ;
-    public String port ;
+    public String url;
+    public String port;
 
-public List<String> names;
+    public List<String> names;
 
     public void setNames(List<String> names) {
         this.names = names;
     }
 
-    public  String test;
+    public String test;
 
     public void setTest(String test) {
         this.test = test;
     }
 
     public String showMyconf() {
-        username= environment.getProperty("name");
+        username = environment.getProperty("name");
         password = environment.getProperty("pwd");
         url = environment.getProperty("url");
         port = environment.getProperty("port");

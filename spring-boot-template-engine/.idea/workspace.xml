@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0fcabdc-bb4e-436d-97c6-6010cb5c26b0" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/spring-boot-freemarker/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-thymeleaf/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-boot-thymeleaf/src/main/java/com/dynamic/springbootthymeleaf/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#index#0;class#UserController#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring-boot-freemarker/src/main/java/com/dynamic/springbootfreemarker/SpringBootFreemarkerApplication.java" />
+        <option value="$PROJECT_DIR$/spring-boot-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-freemarker/src/main/resources/templates/index.ftl" />
+        <option value="$PROJECT_DIR$/spring-boot-freemarker/src/main/java/com/dynamic/springbootfreemarker/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-thymeleaf/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/spring-boot-thymeleaf/src/main/java/com/dynamic/springbootthymeleaf/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-thymeleaf/src/main/resources/logback-dynamic.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-freemarker/src/main/resources/logback-dynamic.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program\apache-maven-3.3.9\repository" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-freemarker" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-thymeleaf" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-thymeleaf" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="1" />
+    <option name="width" value="1934" />
+    <option name="height" value="1037" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-boot-template-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-template-engine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-template-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-template-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-freemarker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-template-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-template-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-freemarker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-template-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-template-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-freemarker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-template-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-template-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-freemarker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-template-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-template-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-template-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-template-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-template-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-template-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-template-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-template-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-template-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-template-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-template-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-template-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-template-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-template-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootthymeleaf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-template-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-template-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootthymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-template-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-template-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-template-engine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-template-engine" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-thymeleaf/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\practice\springboot\spring-boot-course\spring-boot-template-engine\spring-boot-thymeleaf\src\main\resources\templates" />
+      <recent name="E:\practice\springboot\spring-boot-course\spring-boot-template-engine\spring-boot-thymeleaf\src\main\resources" />
+      <recent name="E:\practice\springboot\spring-boot-course\spring-boot-template-engine\spring-boot-freemarker\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootThymeleafApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SpringBootFreemarkerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-freemarker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dynamic.springbootfreemarker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dynamic.springbootfreemarker.SpringBootFreemarkerApplication" />
+    </configuration>
+    <configuration name="SpringBootThymeleafApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-thymeleaf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dynamic.springbootthymeleaf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dynamic.springbootthymeleaf.SpringBootThymeleafApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringBootFreemarkerApplication" />
+      <item itemvalue="Spring Boot.SpringBootThymeleafApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringBootThymeleafApplication" />
+        <item itemvalue="Spring Boot.SpringBootFreemarkerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0fcabdc-bb4e-436d-97c6-6010cb5c26b0" name="Default" comment="" />
+      <created>1546666021727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546666021727</updated>
+      <workItem from="1546666025288" duration="1612000" />
+      <workItem from="1546667659081" duration="74000" />
+      <workItem from="1546667751066" duration="3937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5623000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="1" width="1547" height="829" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32834852" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.3287483" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4567039" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3287483" />
+      <window_info anchor="bottom" id="Code comment" order="7" />
+      <window_info anchor="bottom" id="Problems" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3692107" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Learn" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Code comment" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.44979367" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3287483" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3287483" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.32834852" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3680104" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/src/main/resources/templates/index.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#353#416#0#HTML" expanded="true" />
+            <element signature="e#386#410#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/src/main/java/com/dynamic/springbootfreemarker/SpringBootFreemarkerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+          <folding>
+            <element signature="n#parent#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#properties#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#build#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#plugins#0;n#build#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/src/main/java/com/dynamic/springbootfreemarker/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/src/main/resources/templates/index.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/src/main/java/com/dynamic/springbootfreemarker/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+          <folding>
+            <element signature="n#parent#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#properties#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#build#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#plugins#0;n#build#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/src/main/java/com/dynamic/springbootfreemarker/SpringBootFreemarkerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/src/main/java/com/dynamic/springbootfreemarker/SpringBootFreemarkerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/target/classes/static/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/target/classes/templates/index.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-thymeleaf/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/src/main/java/com/dynamic/springbootfreemarker/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="30" column="21" selection-start-line="26" selection-end-line="32" />
+          <folding>
+            <element signature="n#parent#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#properties#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#build#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#plugins#0;n#build#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-thymeleaf/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="n#parent#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#properties#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#dependency#3;n#dependencies#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#build#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#plugins#0;n#build#0;n#project#0;n#!!top" expanded="true" />
+            <element signature="n#plugin#0;n#plugins#0;n#build#0;n#project#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/src/main/resources/templates/index.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="73" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#353#416#0#HTML" expanded="true" />
+            <element signature="e#386#410#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-thymeleaf/src/main/java/com/dynamic/springbootthymeleaf/SpringBootThymeleafApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-freemarker/src/main/resources/logback-dynamic.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="8" column="88" selection-start-line="8" selection-start-column="88" selection-end-line="8" selection-end-column="88" />
+          <folding>
+            <element signature="n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#encoder#0;n#appender#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#rollingPolicy#0;n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#timeBasedFileNamingAndTriggeringPolicy#0;n#rollingPolicy#0;n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#encoder#0;n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#filter#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#rollingPolicy#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#timeBasedFileNamingAndTriggeringPolicy#0;n#rollingPolicy#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#encoder#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#filter#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#rollingPolicy#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#timeBasedFileNamingAndTriggeringPolicy#0;n#rollingPolicy#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#encoder#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#logger#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#root#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#springProfile#1;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#0;n#springProfile#1;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#rollingPolicy#0;n#appender#0;n#springProfile#1;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#layout#0;n#appender#0;n#springProfile#1;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#root#0;n#springProfile#1;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#springProfile#2;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#0;n#springProfile#2;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#rollingPolicy#0;n#appender#0;n#springProfile#2;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#layout#0;n#appender#0;n#springProfile#2;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#root#0;n#springProfile#2;n#configuration#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-thymeleaf/src/main/resources/logback-dynamic.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="8" column="87" selection-start-line="8" selection-start-column="87" selection-end-line="8" selection-end-column="87" />
+          <folding>
+            <element signature="n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#encoder#0;n#appender#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#rollingPolicy#0;n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#timeBasedFileNamingAndTriggeringPolicy#0;n#rollingPolicy#0;n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#encoder#0;n#appender#1;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#filter#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#rollingPolicy#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#timeBasedFileNamingAndTriggeringPolicy#0;n#rollingPolicy#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#encoder#0;n#appender#2;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#filter#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#rollingPolicy#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#timeBasedFileNamingAndTriggeringPolicy#0;n#rollingPolicy#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#encoder#0;n#appender#3;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#logger#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#root#0;n#springProfile#0;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#springProfile#1;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#0;n#springProfile#1;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#rollingPolicy#0;n#appender#0;n#springProfile#1;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#layout#0;n#appender#0;n#springProfile#1;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#root#0;n#springProfile#1;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#springProfile#2;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#appender#0;n#springProfile#2;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#rollingPolicy#0;n#appender#0;n#springProfile#2;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#layout#0;n#appender#0;n#springProfile#2;n#configuration#0;n#!!top" expanded="true" />
+            <element signature="n#root#0;n#springProfile#2;n#configuration#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-thymeleaf/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="14" column="77" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="77" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-thymeleaf/src/main/java/com/dynamic/springbootthymeleaf/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#index#0;class#UserController#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
