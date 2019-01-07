@@ -1,9 +1,9 @@
 package com.dynamic.springbootbvexcetionhandler.service;
 
+import com.dynamic.springbootbvexcetionhandler.exception.AgeDeleteException;
 import com.dynamic.springbootbvexcetionhandler.mapper.UserMapper;
 import com.dynamic.springbootbvexcetionhandler.model.User;
 import org.springframework.stereotype.Service;
-import org.springframework.util.Assert;
 import org.springframework.validation.annotation.Validated;
 
 import javax.annotation.Resource;
@@ -32,16 +32,14 @@ public class UserService {
     }
 
 
-    @Min(value = 2,message = "必须删除成功")
+    @Min(value = 1,message = "必须删除成功")
     public int delete(@NotNull Integer id) {
-        // 业务认为不允许删除 18 岁一下的用户.
-        Assert.isTrue(selectByPrimaryKey(id).getAge() > 18,"不允许删除18岁以下的用户");
-        //原来的逻辑：
-        /**
-         * if (selectByPrimaryKey(id).getAge() < 18) {
-         *             throw new AgeDeleteException();
-         *         }
-         */
+
+        // Assert.isTrue(selectByPrimaryKey(id).getAge() > 18,"不允许删除18岁以下的用户");
+        //业务认为不允许删除 18 岁一下的用户.
+        if (selectByPrimaryKey(id).getAge() < 18) {
+                     throw new AgeDeleteException();
+                 }
         return userMapper.deleteByPrimaryKey(id);
     }
 
