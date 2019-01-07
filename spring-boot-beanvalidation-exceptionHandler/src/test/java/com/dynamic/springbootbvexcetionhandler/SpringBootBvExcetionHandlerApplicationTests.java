@@ -13,6 +13,5 @@ public class SpringBootBvExcetionHandlerApplicationTests {
     public void contextLoads() {
     }
 
-
 }
 

@@ -33,7 +33,8 @@ public class CheckCaseValidator implements ConstraintValidator<CheckCase, String
 
         if(!isValid) {
             constraintContext.disableDefaultConstraintViolation();
-            constraintContext.buildConstraintViolationWithTemplate( "{com.mycompany.constraints.CheckCase.message=Case mode must be {value}}");
+            constraintContext.buildConstraintViolationWithTemplate("Case mode must be {value}")
+                    .addPropertyNode("value").addConstraintViolation();
         }
         return isValid;
     }
