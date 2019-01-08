@@ -1,5 +1,6 @@
 package com.dynamic.springbootbvexcetionhandler.model;
 
+import com.dynamic.springbootbvexcetionhandler.service.Severity;
 import com.dynamic.springbootbvexcetionhandler.validation.ValidLicensePlate;
 
 import javax.validation.constraints.Min;
@@ -12,7 +13,7 @@ import javax.validation.constraints.NotNull;
  * version:v1.0.0
  */
 public class Car {
-    @NotNull
+    @NotNull(message = "manufacturer is not allowed to be empty !",payload = Severity.Error.class)
     private String manufacturer;
 /*
     @NotNull
@@ -20,11 +21,12 @@ public class Car {
     @CheckCase(value = CaseMode.UPPER,message = "Case mode must be {value}")
     private String licensePlate;*/
 
-    @ValidLicensePlate
+    @ValidLicensePlate(payload = Severity.warn.class,message = "licensePlate should not be null and must lt 2, and rt 14")
     private String licensePlate;
 
 
-    @Min(2)
+    @Min(value = 2,message = "seatCount not specified, but not mandatory",
+            payload = Severity.Info.class)
     private int seatCount;
     public Car(String manufacturer, String licencePlate, int seatCount) {
         this.manufacturer = manufacturer;

@@ -47,13 +47,23 @@ public class CarTest {
 
     @Test
     public void carIsValid() {
-        Car car = new Car("Morris", "DD-AB-123", 4);
+        Car car = new Car("manufacturer", "DD-AB-123", 2);
         LOGGER.info(car.toString());
         Set<ConstraintViolation<Car>> constraintViolations =
                 validator.validate(car);
         StringBuilder errorMessage = new StringBuilder();
-        constraintViolations.forEach(constraintViolation->LOGGER.info(errorMessage.append(constraintViolation.getMessage()).append(",").toString()));
+        constraintViolations.forEach(constraintViolation->LOGGER.info(errorMessage.append(constraintViolation.getConstraintDescriptor().getPayload()).append(",").append(constraintViolation.getMessage()).append(",").toString()));
         assertEquals(0, constraintViolations.size());
+    }
+    @Test
+    public void carIsNotValid() {
+        Car car = new Car(null, "DD-AB-123", 2);
+        LOGGER.info(car.toString());
+        Set<ConstraintViolation<Car>> constraintViolations =
+                validator.validate(car);
+        StringBuilder errorMessage = new StringBuilder();
+        constraintViolations.forEach(constraintViolation->LOGGER.info(errorMessage.append(constraintViolation.getConstraintDescriptor().getPayload()).append(",").append(constraintViolation.getMessage()).append(",").toString()));
+        assertEquals(1, constraintViolations.size());
     }
 }
 
