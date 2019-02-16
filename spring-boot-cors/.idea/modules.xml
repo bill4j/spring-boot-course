@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-cors.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-cors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cors-client/spring-boot-cors-client.iml" filepath="$PROJECT_DIR$/spring-boot-cors-client/spring-boot-cors-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cors-provider/spring-boot-cors-provider.iml" filepath="$PROJECT_DIR$/spring-boot-cors-provider/spring-boot-cors-provider.iml" />
+    </modules>
+  </component>
+</project>
