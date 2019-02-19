@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.dynamic.bill4j</groupId>
-	<artifactId>spring-boot-mybatis-showcase</artifactId>
+	<artifactId>spring-boot-swagger2X-showcase</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-mybatis-showcase</name>
+	<name>spring-boot-swagger2X-showcase</name>
 	<description>Demo project for Spring Boot and mybatis</description>
 
 	<properties>

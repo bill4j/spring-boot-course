@@ -9,10 +9,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 @EnableSwagger2Doc
 @SpringBootApplication
-public class SpringBootMybatisShowcaseApplication {
+public class SpringBootSwaggerShowcaseApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootMybatisShowcaseApplication.class, args);
+		SpringApplication.run(SpringBootSwaggerShowcaseApplication.class, args);
 	}
 
 }
